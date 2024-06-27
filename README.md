@@ -1,12 +1,13 @@
-# NetScanner
-
-NetScanner es una herramienta de escaneo de red que detecta puertos TCP abiertos y identifica protocolos HTTP/HTTPS activos.
+# NetScanner 
+es una herramienta para escanear puertos abiertos y servicios en diferentes protocolos (HTTP, HTTPS, FTP, etc.) en direcciones IP específicas.
 
 ## Características
 
 - Escaneo de puertos TCP abiertos.
-- Detección de protocolos HTTP y HTTPS.
-- Identificación de servidores web.
+- Detección de protocolos HTTP, HTTPS, FTP, etc.
+- Identificación de servidores web y otros servicios.
+
+NetScanner es una herramienta de escaneo de red que detecta puertos TCP abiertos y identifica protocolos HTTP/HTTPS activos.
 
 ## Instalación
 
