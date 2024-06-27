@@ -13,8 +13,6 @@ NetScanner es una herramienta de escaneo de red que detecta puertos TCP abiertos
 
 1. Clona el repositorio:
 
-git clone https://github.com/BEMC-GTRX/NetScanner.git
-
 # Navega al directorio del proyecto:
 
 cd NetScanner
